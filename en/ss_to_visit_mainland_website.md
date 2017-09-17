@@ -4,3 +4,6 @@ Warning: please use the following account while obeying the local government reg
 server ip | server port | encrypt method | pasword 
 ----------|----------|----------|----------
 0.0.0.0 | 8202 | abc | efg
+
+TODO:
+- [ ] provide qrcode for each ss account
