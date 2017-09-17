@@ -2,7 +2,7 @@
 Provide shadowsocks free tutorial and free account
 Launguage select: 
 - [English](https://github.com/itrump/ssfree "English version")
-- [中文版](https://github.com/itrump/ssfree "中文版")
+- [中文版](./cn/cn_index.md "中文版")
 
 ## Shadowsocks tutorial
 - Love at first sight of shadowsocks
