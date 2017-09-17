@@ -9,4 +9,4 @@ Launguage select:
 
 ## Free shadowsocks account
 - [Free ss to visit google](https://github.com/itrump/ssfree "free ss server account to visit google") visit google within blocked area like Cuba, Iran, China and North Korea.
-- [Free ss to visit mainland website](https://github.com/itrump/ssfree "free ss server account to visit 163 music") visit China mainland webservices like pan.baidu.com or 163 music.
+- [Free ss to visit mainland website](./en/ss_to_visit_mainland_website.md "free ss server account to visit 163 music") visit China mainland webservices like pan.baidu.com or 163 music.
