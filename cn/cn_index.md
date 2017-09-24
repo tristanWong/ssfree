@@ -1,10 +1,10 @@
 # 中文版索引
 
-## 零基础3分钟学会用shadowsocks上网.保护隐私（科）（学）（上）（网）！
+## 零基础1分钟学会用shadowsocks上网.保护隐私（科）（学）（上）（网）！
 - mac os
 - windows 7/8/10
 - android
-- iphone/ipad
+- [iphone/ipad](./ios_usage.md)
 
 ## 按客户端类型分类常见问题
 - mac os 常见问题
