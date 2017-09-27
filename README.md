@@ -7,6 +7,7 @@ Launguage select:
 
 ## Shadowsocks tutorial
 - Love at first sight of shadowsocks
+- Contact in telegram: [love_china](https://t.me/joinchat/Git7-UIKZN41--c9P_N-GA)
 
 ## Free shadowsocks account
 - [Free ss to visit google](https://github.com/itrump/ssfree "free ss server account to visit google") visit google within blocked area like Cuba, Iran, China and North Korea.
