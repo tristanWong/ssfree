@@ -1,5 +1,7 @@
-# Free shadowsocks tutorials and accounts[Docs continiously improving...]
+# Free shadowsocks tutorials and accounts
 Provide shadowsocks free tutorial and free account
+
+> Docs continiously improving...
 
 Launguage select: 
 - [English](https://github.com/itrump/ssfree "English version")
