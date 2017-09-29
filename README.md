@@ -1,4 +1,4 @@
-# Free shadowsocks tutorials and accounts
+# Free shadowsocks tutorials and accounts[Docs continiously improving...]
 Provide shadowsocks free tutorial and free account
 
 Launguage select: 
