@@ -18,6 +18,7 @@
 - windows 7/8/9 常见问题
 - android 常见问题
 - iphone/ipad 常见问题
+- linux/ubuntu 如何配置
 
 ## 与客户端无关的常见问题
 - 500 privoxy error
