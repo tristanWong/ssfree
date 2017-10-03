@@ -16,7 +16,7 @@ Launguage select:
 - Contact in telegram: [love_china](https://t.me/joinchat/Git7-UIKZN41--c9P_N-GA)
 
 ## Free shadowsocks account
-- [Free ss to visit google](https://github.com/itrump/ssfree "free ss server account to visit google") visit google within blocked area like Cuba, Iran, China and North Korea.
+- [Free ss to visit google](./en/free_ss_site.md "free ss server account to visit google") visit google within blocked area like Cuba, Iran, China and North Korea.
 - [Free ss to visit mainland website](./en/ss_to_visit_mainland_website.md "free ss server account to visit 163 music") visit China mainland webservices like pan.baidu.com or 163 music.
 
 ### TODO
