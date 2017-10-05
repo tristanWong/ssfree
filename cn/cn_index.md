@@ -33,7 +33,7 @@
 - 不限流量，那我的手机会免流吗？
 - ss账号支持在路由器上使用吗？
 - ss账号支持ssr客户端吗？在ssr客户端上如何使用？
-- 为什么打不开pixiv/telegram/instagram/tumblr/...？
+- 为什么打不开pixiv/telegram/instagram/tumblr/...？多半自己电脑手机的问题，如hosts文件不正常
 
 ## 联系我们
 - 我们的telegram: [爱国频道](https://t.me/joinchat/Git7-UIKZN41--c9P_N-GA)
