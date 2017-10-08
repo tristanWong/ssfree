@@ -12,6 +12,7 @@
 - android
 - [iphone/ipad](./ios_usage.md)
 - [倚天剑shadow新网站](./倚天剑ss新网站.md)
+- [免费ss账号](./免费ss账号.md)
 
 ## 按客户端类型分类常见问题
 - mac os 常见问题
