@@ -7,4 +7,4 @@ Here is the recently available site list of Yitianjian ss. If anyone find others
 - [visit with global proxy on](https://a.yitianjianss.com)
 - [visit with global proxy on](https://b.yitianjianss.com)
 - [visit with global proxy on](https://c.yitianjianss.com)
-- [visit with global proxy on](https://c.yitianjianss.com)
+- [visit with global proxy on](https://d.yitianjianss.com)

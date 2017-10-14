@@ -6,4 +6,4 @@
 - [开全局代理可访问](https://a.yitianjianss.com)
 - [开全局代理可访问](https://b.yitianjianss.com)
 - [开全局代理可访问](https://c.yitianjianss.com)
-- [开全局代理可访问](https://c.yitianjianss.com)
+- [开全局代理可访问](https://d.yitianjianss.com)
