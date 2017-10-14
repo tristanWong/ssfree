@@ -1,3 +1,7 @@
+# Launguage select: 
+- [English](https://github.com/itrump/ssfree "English version")
+- [中文版](./cn/README.md "中文版")
+
 > Docs 
 
 > Docs continiously 
@@ -6,10 +10,6 @@
 
 # Free shadowsocks tutorials and accounts
 Provide shadowsocks free tutorial and free account
-
-Launguage select: 
-- [English](https://github.com/itrump/ssfree "English version")
-- [中文版](./cn/README.md "中文版")
 
 ## Shadowsocks tutorial
 - Love at first sight of shadowsocks
