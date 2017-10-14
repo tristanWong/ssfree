@@ -1,3 +1,4 @@
+> For english version, click [here](./yitianjian_ss_new_site.md)
 # 倚天剑ss新网站
 爱国网站经常容易被dns污染、投毒导致网站打不开，所以会经常迁移。
 > 请开全局代理访问以下网站！
