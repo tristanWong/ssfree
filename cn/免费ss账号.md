@@ -13,10 +13,10 @@
 ### 免费ss账号
  请在shadowsocks客户端菜单中找到扫码入口添加
 - ss line sgp, free trial, 新加坡线路
-  - <img src="./img/720033dba74ff380b6d7c11e1be030cf.png" />
-  - <img src="./img/a3ff3a2eba0dd086754e9921a3743e52.png" />
-  - <img src="./img/cec9da12ccff076785949182694ad811.png" />
-  - <img src="./img/daad409f4ffba6ee33a6d04828b4c5b8.png" />
+  - <img src="./img/20443574350369fa85d18ef5ad714976.png" />
+  - <img src="./img/3e2e25dee67221200d6d1ffea3ce9f6e.png" />
+  - <img src="./img/531dfda2ff2ef60d964f09b918bbe809.png" />
+  - <img src="./img/e1a7e5009af605977ea7273cda66e4b5.png" />
 - 更多线路，敬请期待！
 
 - [联系我们](./联系我们.md)
