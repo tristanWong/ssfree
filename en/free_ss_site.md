@@ -1,7 +1,8 @@
 # Free ss site
 
 These sites will be updated every few days.
-[free ss account](https://t.netflybit.top/)
+
+- [free ss site open with proxy on](https://t.netflybit.top/)
 
 # Free ss account
 These accounts are just for tests! If it does not work, please refer to the above sites.
