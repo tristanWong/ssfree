@@ -10,8 +10,8 @@
 - [直接访问](https://d.aiguobit.com)
 - [直接访问](https://e.aiguobit.com)
 - [直接访问](https://f.aiguobit.com)
-> 请开全局代理访问以下网站！
 ### 以下是ss新网站列表（本列表会定期更新，建议收藏此页面）
+> 请开全局代理访问以下网站！
 - [开全局代理可访问](https://a.yitianjianss.com)
 - [开全局代理可访问](https://b.yitianjianss.com)
 - [开全局代理可访问](https://c.yitianjianss.com)
