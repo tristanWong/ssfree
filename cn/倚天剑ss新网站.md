@@ -2,15 +2,17 @@
 
 > 本人与以下网站无关！仅使用了其服务，搜集新网站以方便大家。
 # 倚天剑ss新网站
+
+### 本页面会定期更新，建议收藏此页面
 爱国网站经常容易被dns污染、投毒导致网站打不开，所以会经常迁移。
-### 暂时无需开全局
+### 暂时无需开全局，全球访问！
 - [直接访问](https://a.aiguobit.com)
 - [直接访问](https://b.aiguobit.com)
 - [直接访问](https://c.aiguobit.com)
 - [直接访问](https://d.aiguobit.com)
 - [直接访问](https://e.aiguobit.com)
 - [直接访问](https://f.aiguobit.com)
-### 以下是ss新网站列表（本列表会定期更新，建议收藏此页面）
+### 大陆地区需开全局访问！
 > 请开全局代理访问以下网站！
 - [开全局代理可访问](https://a.yitianjianss.com)
 - [开全局代理可访问](https://b.yitianjianss.com)
