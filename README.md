@@ -27,3 +27,4 @@ Provide shadowsocks free tutorial and free account
 - [ ] add free inland and outland ss lines with qrcode
 - [ ] build independent site
 - [ ] show trial qr img on homapge
+
